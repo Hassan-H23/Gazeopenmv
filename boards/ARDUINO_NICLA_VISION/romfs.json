@@ -4,31 +4,7 @@
     "entries": [
     {
       "type": "tflite",
-      "path": "{TOP}/lib/models/micro_speech.tflite",
-      "alignment": 16,
-      "optimize": "Performance"
-    },
-    {
-      "type": "tflite",
-      "path": "{TOP}/lib/models/audio_preprocessor.tflite",
-      "alignment": 16,
-      "optimize": "Performance"
-    },
-    {
-      "type": "tflite",
-      "path": "{TOP}/lib/models/person_detect.tflite",
-      "alignment": 16,
-      "optimize": "Performance"
-    },
-    {
-      "type": "tflite",
-      "path": "{TOP}/lib/models/fomo_face_detection.tflite",
-      "alignment": 16,
-      "optimize": "Performance"
-    },
-    {
-      "type": "tflite",
-      "path": "{TOP}/lib/models/force_int_quant.tflite",
+      "path": "{TOP}/lib/models/MediaPipe-Face-Detection_FaceDetector_w8a8.tflite",
       "alignment": 16,
       "optimize": "Performance"
     },
