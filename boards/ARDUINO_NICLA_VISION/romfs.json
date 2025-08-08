@@ -37,7 +37,7 @@
       "path": "{TOP}/lib/models/MediaPipe-Face-Detection_FaceDetector.tflite",
       "alignment": 16,
       "optimize": "Performance"
-    }
+    },
     {
       "type": "haar",
       "path": "{TOP}/lib/haar/haarcascade_eye.xml",
